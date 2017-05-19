@@ -1,0 +1,8 @@
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.deps.json
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.runtimeconfig.json
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.runtimeconfig.dev.json
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.dll
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\bin\Debug\netcoreapp1.0\TodoApi.pdb
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\obj\Debug\netcoreapp1.0\TodoApi.AssemblyInfo.cs
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\obj\Debug\netcoreapp1.0\TodoApi.dll
+c:\Users\alysc\documents\visual studio 2017\Projects\TodoApi\src\TodoApi\obj\Debug\netcoreapp1.0\TodoApi.pdb
